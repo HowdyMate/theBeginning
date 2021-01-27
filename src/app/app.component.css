@@ -67,9 +67,37 @@
 .second{
   padding: 3%;
 }
-.second h4{
+.second h2{
+  padding: 1%;
   text-transform: uppercase;
 }
 .third{
   background-color: black;
+  color: #FFF;
+  padding: 3%;
+  min-height: 550px;
+}
+.third h2{
+  padding: 1%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.fourth{
+  min-height: 550px;
+  padding: 3%;
+}
+.fourth h2{
+  padding: 1%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.fifth{
+  background-color: black;
+  color: #FFF;
+  padding: 3%;
+}
+.fifth h2{
+  padding: 1%;
+  text-align: center;
+  text-transform: uppercase;
 }
