@@ -1,3 +1,6 @@
+.navbar .navbar-nav > .active > a {
+  color: #00cc00;
+}
 .top{
     width: 100%;
     min-height: 650px;
@@ -10,7 +13,7 @@
     font-family: Poppins;
 }
 .nav-link{
-    color: #ffffff;
+    color: #FFF;
     width: 100%;
     height: 100%;
     text-transform: uppercase;
@@ -82,6 +85,11 @@
   text-align: center;
   text-transform: uppercase;
 }
+.third ul li a.active g {
+  fill: #00cc00;
+  transition: 0.5s;
+}
+
 .fourth{
   min-height: 550px;
   padding: 3%;
