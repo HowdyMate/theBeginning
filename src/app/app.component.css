@@ -87,10 +87,9 @@
   fill: #00cc00;
   transition: 0.5s;
 }
-
 .fourth{
-  min-height: 550px;
   padding: 3%;
+  min-height: 550px;
 }
 .fourth h2{
   padding: 1%;
