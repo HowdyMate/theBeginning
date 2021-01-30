@@ -2,3 +2,6 @@
 body{
     font-family: Poppins;
 }
+html {
+    scroll-behavior: smooth;
+  }
